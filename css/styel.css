@@ -3,3 +3,12 @@ main {
    padding: 0;
    text-align: center;
 }
+
+.menu {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 14px;
+   line-height: 24px;
+
+}
